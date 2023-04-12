@@ -48,7 +48,7 @@
     "babel-core": "^6.26.3",
     "eslint": "^8.38.0",
     "istanbul": "^0.3.19",
-    "mocha": "^2.2.5",
+    "mocha": "^10.2.0",
     "require-dir": "^0.3.0",
     "should": "^7.0.4"
   }
