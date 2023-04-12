@@ -39,7 +39,7 @@
     "jquery": "^3.5.0",
     "marked": "^4.0.10",
     "node-dir": "^0.1.9",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "winston": "^1.0.1",
     "wkhtmltopdf": "^0.1.5"
   },
